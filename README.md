@@ -8,4 +8,4 @@ This file is to redirect the repositories
 
 - [DeliveryService](https://github.com/PreritMishra/PizzaDeliveryDeliveryService)
 
--[AdminRestaurantService](https://github.com/PreritMishra/PizzaDeliveryAdminRestaurantService)
+- [AdminRestaurantService](https://github.com/PreritMishra/PizzaDeliveryAdminRestaurantService)
